@@ -1,0 +1,6 @@
+name=input('what is your name? ')
+color = input('what is your favourite color? ')
+print(name + " likes " + color)
+birth_year=input('birth year: ')
+age= 2021- int(birth_year)
+print(age)
